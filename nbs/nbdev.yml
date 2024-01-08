@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "frum-repo"
+  site-url: "https://AL42Gaming.github.io/frum-repo"
+  description: "Frum-repo is an experimental package to streamline data-analysis code writing."
+  repo-branch: main
+  repo-url: "https://github.com/AL42Gaming/frum-repo"

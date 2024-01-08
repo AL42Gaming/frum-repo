@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://AL42Gaming.github.io',
                 'git_url': 'https://github.com/AL42Gaming/frum-repo',
                 'lib_path': 'frum_repo'},
-  'syms': {'frum_repo.core': {'frum_repo.core.foo': ('core.html#foo', 'frum_repo/core.py')}}}
+  'syms': { 'frum_repo.MoEgraph': {'frum_repo.MoEgraph.foo': ('moegraph.html#foo', 'frum_repo/MoEgraph.py')},
+            'frum_repo.core': {'frum_repo.core.foo': ('moegraph.html#foo', 'frum_repo/core.py')}}}
